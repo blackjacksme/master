@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">&quot;Wifi User Handover &quot;</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="explanation">This application is used to connect your wifi to any places that have a wifi tag handover</string>
+    <string name="how_to">Just put your NFC phone near the Tag and you\'re good to go !</string>
+    <string name="connec_to">"Connected To : "</string>
+    <string name="not_connect">Not Connected</string>
+    <string name="def">Not Connected</string>
+
+</resources>
